@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "tilewinde",
+			"path": "../../tilewinde"
+		},
+		{
+			"name": "img",
+			"path": "../do not touch/img"
+		},
+		{
+			"name": "do not touch",
+			"path": "../do not touch"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "test"
+	}
+}
