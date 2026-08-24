@@ -1,0 +1,17 @@
+{
+  "name": "one-orject",
+  "version": "1.0.0",
+  "description": "tailwind me",
+  "license": "ISC",
+  "author": "alireza",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.1",
+    "tailwindcss": "^4.3.1"
+  },
+  "devDependencies": {}
+}
